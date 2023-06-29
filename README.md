@@ -1,6 +1,16 @@
 # XboxRemtoeDev
 A poorly made Xbox one/series x/series s dev mode remote access program that uses Capture Screenshot in the dev portal
 
+# Why I made this
+because its simple and Remote access no longer works in dev mdoe for me idk if anybody else has this issue too 
+
+
+
+# What this supports
+this is completely local so You can run OneGuide with this if you want or possibly port foward it to use it anywhere but why would you do that this is very slow
+also you can run any app you can't with regular remote play
+
+
 # Requirments 
 
 Python: Make sure you have Python installed on your system. You can download the latest version of Python from the official Python website (https://www.python.org/downloads/). Follow the installation instructions specific to your operating system.
