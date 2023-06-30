@@ -8,7 +8,7 @@ because its simple and Remote access no longer works in dev mdoe for me idk if a
 
 # What this supports
 this is completely local so You can run OneGuide with this if you want or possibly port foward it to use it anywhere but why would you do that this is very slow
-also you can run any app you can't with regular remote play
+also you can run any app you can't with regular remote play you cannot control it remotley yet it just acts like a TV or monitor display etc
 
 
 # Requirments 
