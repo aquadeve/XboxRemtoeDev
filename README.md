@@ -2,7 +2,7 @@
 A poorly made Xbox one/series x/series s dev mode remote access program that uses Capture Screenshot in the dev portal
 
 # Why I made this
-because its simple and Remote access no longer works in dev mdoe for me idk if anybody else has this issue too 
+because its simple and Remote access no longer works in dev mode for me idk if anybody else has this issue too 
 
 
 
